@@ -107,5 +107,4 @@
   xmlns="http://www.w3.org/2000/svg"
   bind:innerHTML={svgContent}
   {...svgAttrs}
-  {...$$restProps}
-  contenteditable="true" />
+  {...$$restProps} />
